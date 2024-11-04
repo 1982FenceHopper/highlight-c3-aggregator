@@ -19,7 +19,7 @@ This project is separated into three parts
 
 1. **The Aggregator [THIS REPO]** - The server that pulls statically available data from the [United Nations Food And Agriculture Organization](https://www.fao.org/home/en) and pulls the spreadsheet dataset to expose in a dynamic API endpoint.
 
-2. **The Hypothesizer** - The server that exposes a custom endpoint to use AI LLMs via Tool Calling to hypothesize data and trends for an accurate summary of future predictions (Courtesy of [Cloudflare Workers AI](https://www.cloudflare.com/developer-platform/products/workers-ai/)).
+2. **[The Hypothesizer](https://github.com/1982FenceHopper/highlight-c3-hypothesizer)** - The server that exposes a custom endpoint to use AI LLMs via Tool Calling to hypothesize data and trends for an accurate summary of future predictions (Courtesy of [Cloudflare Workers AI](https://www.cloudflare.com/developer-platform/products/workers-ai/)).
 
 3. [**The Visualizer**](https://github.com/1982FenceHopper/highlight-c3-visualizer) - The Web UI that takes data from [1] and puts it in a locally hosted PostgreSQL database for quick referencing and data processing, and displaying it with future predictive data using algorithms, all the while requesting an hypothesis based on current data from [2].
 
