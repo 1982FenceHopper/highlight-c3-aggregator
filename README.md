@@ -5,6 +5,7 @@ This is the data aggregation server that powers this project as a whole, it take
 ### Languages and Frameworks
 
 - Express.js 4.21.0
+- Decompress 4.2.1
 - TypeScript
 
 ## About
