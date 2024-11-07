@@ -132,7 +132,7 @@
         "DatasetCode": "EA",
         "DatasetName": "Investment: Development Flows to Agriculture",
         "Topic": "All sectors with an emphasis on the Agriculture, forestry and fishing sector",
-        "DatasetDescription": "The Development Flows to Agriculture (DFA) dataset is an important component of Agricultural Investment Financing Statistics, together with Government Expenditures on Agriculture (GEA), Foreign Direct Investment in Agriculture (FDI), Credit to Agriculture (C2A) and Foreign Remittances (FR).  The DFA dataset relies on the OECD’s Creditor Reporting System (CRS), which provides comprehensive data on development flows from all donors to all recipients since the early 1970s. The use of CRS for compiling the DFA dataset capitalizes on the expertise of the OECD in this area, while minimizing respondents’ burden and avoiding duplication of work. The DFA dataset includes Official Development Assistance (ODA) flows, Other Official Flows (OOFs) and Private Grants reported by donor countries, international organizations and private entities to the OECD Development Assistance Committee (DAC) Directorate. The objective of the DFA database is to provide readily available data to enable analysis on aid flows and the purposes they serve, with an emphasis on agriculture, its components, and environmental protection.The data series “Other Agriculture, Forestry and Fishing (total)” provides additional information on aid that accrues in fact to agriculture, but is included in aid flows assigned to other sectors. Accrual to agriculture is dedicated from the text and the description of projects.    Among the indicators published in the DFA dataset is the Share of Total DFA. This is indicator is computed as a share of total aid flows devoted to “Agriculture, Forestry and Fishing” in Total aid flows, including Official Development Assistance (ODA), Other Official Flows (OOF) and Private Grant for all purposes from all donors. This indicator is conceptually similar to SDG indicator 2.a.2 \"Total official flows to the agriculture sector\", which is under the custodianship of the OECD with FAO as a partner Agency. It is important to underline that SDG 2.a.2 follows a methodology that is different from that of the Share of Total DFA published in FAOSTAT, and is described by OECD in the Handbook available at https://unstats.un.org/wiki/display/SDGeHandbook/Indicator+2.a.2 .The computation of SDG indicator 2.a.2 uses ODA and OOF sector-allocable aid flows as a denominator.",
+        "DatasetDescription": "The Development Flows to Agriculture (DFA) republishes the OECD Creditor Reporting System (CRS) Aid Activity database, which provides comprehensive data on development flows from all donors to all recipients since the early 1970s. The use of CRS for compiling the DFA dataset capitalizes on the expertise of the OECD in this area, while minimizing respondents’ burden and avoiding duplication of efforts.  FAO extracts components of Agriculture, forestry and fishing; rural development; agricultural industry; and general environment protection, and reorganizes these into a set of donor-recipient-purpose in terms of three flow types (Official Development Assistance (ODA) flows; Other Official Flows (OOFs); and Private Grants). The objective of the DFA database is to provide readily available data to enable analysis on aid flows and the purposes they serve, with an emphasis on agriculture, its components, and environmental protection.",
         "Contact": "Food and Agriculture Organization of the United Nations (FAO): Statistics Division (ESS), Economic Statistics Team",
         "Email": "faostat@fao.org / Investment-data@fao.org",
         "DateUpdate": "2023-11-10T00:00:00",
@@ -167,7 +167,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "2996KB",
-        "FileRows": 446760,
+        "FileRows": 469515,
         "FileLocation": "https://bulks-faostat.fao.org/production/Environment_LivestockPatterns_E_All_Data_(Normalized).zip"
       },
       {
@@ -181,7 +181,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "4250KB",
-        "FileRows": 637568,
+        "FileRows": 657370,
         "FileLocation": "https://bulks-faostat.fao.org/production/Climate_change_Emissions_indicators_E_All_Data_(Normalized).zip"
       },
       {
@@ -195,7 +195,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "20305KB",
-        "FileRows": 2448308,
+        "FileRows": 2530621,
         "FileLocation": "https://bulks-faostat.fao.org/production/Environment_LivestockManure_E_All_Data_(Normalized).zip"
       },
       {
@@ -209,7 +209,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "7573KB",
-        "FileRows": 897893,
+        "FileRows": 640922,
         "FileLocation": "https://bulks-faostat.fao.org/production/Environment_Cropland_nutrient_budget_E_All_Data_(Normalized).zip"
       },
       {
@@ -293,7 +293,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "11069KB",
-        "FileRows": 1371546,
+        "FileRows": 1677810,
         "FileLocation": "https://bulks-faostat.fao.org/production/Individual_Quantitative_Dietary_Data_Food_and_Diet_E_All_Data_(Normalized).zip"
       },
       {
@@ -349,7 +349,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "7453KB",
-        "FileRows": 728097,
+        "FileRows": 756538,
         "FileLocation": "https://bulks-faostat.fao.org/production/Emissions_crops_E_All_Data_(Normalized).zip"
       },
       {
@@ -447,7 +447,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "20431KB",
-        "FileRows": 2486527,
+        "FileRows": 2452223,
         "FileLocation": "https://bulks-faostat.fao.org/production/Emissions_Totals_E_All_Data_(Normalized).zip"
       },
       {
@@ -461,7 +461,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "681KB",
-        "FileRows": 82633,
+        "FileRows": 85063,
         "FileLocation": "https://bulks-faostat.fao.org/production/Emissions_Drained_Organic_Soils_E_All_Data_(Normalized).zip"
       },
       {
@@ -475,7 +475,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "6243KB",
-        "FileRows": 1148554,
+        "FileRows": 1121550,
         "FileLocation": "https://bulks-faostat.fao.org/production/Household_Consumption_and_Expenditure_Surveys_Food_and_Diet_E_All_Data_(Normalized).zip"
       },
       {
@@ -559,7 +559,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "7059KB",
-        "FileRows": 704314,
+        "FileRows": 682309,
         "FileLocation": "https://bulks-faostat.fao.org/production/Macro-Statistics_Key_Indicators_E_All_Data_(Normalized).zip"
       },
       {
@@ -573,21 +573,21 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "1545KB",
-        "FileRows": 169142,
+        "FileRows": 168689,
         "FileLocation": "https://bulks-faostat.fao.org/production/Population_E_All_Data_(Normalized).zip"
       },
       {
         "DatasetCode": "OEA",
-        "DatasetName": "Population and Employment: Employment Indicators: Agriculture",
+        "DatasetName": "Population and Employment: Employment Indicators: Agriculture and agrifood systems",
         "Topic": "Labour statistics",
         "DatasetDescription": "FAOSTAT Employment indicators domain focuses on indicators related to employment in agrifood systems and rural areas. The update is performed yearly, using data from the International Labour Organization (ILO) database that contains a rich set of indicators from a wide range of topics related to labour statistics. The indicators published in FAOSTAT are derived from the labour force statistics (LFS) and rural and urban labour markets (RURURB) databases of the ILOSTAT database. In addition, the ILO modelled estimates and projections (ILOEST) are used to provide information on employment in agriculture. As of July 2024, FAOSTAT disseminates five new indicators on employment in agrifood systems (AFS) for the period 2000–2021 at the country, regional and global levels using a methodology developed by FAO to estimate the number of people employed in agrifood systems.",
         "Contact": "Food and Agriculture Organization of the United Nations (FAO): Statistics Division (ESS)",
         "Email": "Veronica.Boero@fao.org",
-        "DateUpdate": "2023-07-17T00:00:00",
+        "DateUpdate": "2024-10-24T00:00:00",
         "CompressionFormat": "zip",
         "FileType": "csv",
-        "FileSize": "1420KB",
-        "FileRows": 154389,
+        "FileSize": "1706KB",
+        "FileRows": 180679,
         "FileLocation": "https://bulks-faostat.fao.org/production/Employment_Indicators_Agriculture_E_All_Data_(Normalized).zip"
       },
       {
@@ -597,10 +597,10 @@
         "DatasetDescription": "FAOSTAT Employment indicators Domain focus on indicators related to employment in agrifood systems and rural areas. The update is performed yearly, using data from the International Labour Organization (ILO) database that contains a rich set of indicators from a wide range of topics related to labour statistics. The indicators published in FAOSTAT are derived from the labour force statistics (LFS) and rural and urban labour markets (RURURB) databases of the ILOSTAT database. In addition, the ILO modelled estimates and projections (ILOEST) are used to provide information on employment in agriculture. As of July 2024, FAOSTAT disseminates five new indicators on employment in agrifood systems (AFS) for the period 2000–2021 at the country, regional and global levels using a methodology developed by FAO to estimate the number of people employed in agrifood systems. The indicators on rural areas provide information on the overall employment in rural areas, status in employment, and labour force participation by sex and age whenever possible.",
         "Contact": "Food and Agriculture Organization of the United Nations (FAO): Statistics Division (ESS)",
         "Email": "Veronica.Boero@fao.org",
-        "DateUpdate": "2023-07-17T00:00:00",
+        "DateUpdate": "2024-10-24T00:00:00",
         "CompressionFormat": "zip",
         "FileType": "csv",
-        "FileSize": "907KB",
+        "FileSize": "779KB",
         "FileRows": 88564,
         "FileLocation": "https://bulks-faostat.fao.org/production/Employment_Indicators_Rural_E_All_Data_(Normalized).zip"
       },
@@ -629,7 +629,7 @@
         "CompressionFormat": "zip",
         "FileType": "csv",
         "FileSize": "1003KB",
-        "FileRows": 85057,
+        "FileRows": 85087,
         "FileLocation": "https://bulks-faostat.fao.org/production/Deflators_E_All_Data_(Normalized).zip"
       },
       {
@@ -639,10 +639,10 @@
         "DatasetDescription": "* Annual exchange rates, Standard Local Currency Units (SLC) per US dollar.* Annual and Monthly exchange rates, Local currency Units (LCU) per US dollar.",
         "Contact": "Food and Agriculture Organization of the United Nations (FAO).: Statistics Division (ESS), Economic Statistics Team.",
         "Email": "faostat@fao.org",
-        "DateUpdate": "2024-05-27T00:00:00",
+        "DateUpdate": "2024-11-05T00:00:00",
         "CompressionFormat": "zip",
         "FileType": "csv",
-        "FileSize": "1184KB",
+        "FileSize": "1188KB",
         "FileRows": 137960,
         "FileLocation": "https://bulks-faostat.fao.org/production/Exchange_rate_E_All_Data_(Normalized).zip"
       },
